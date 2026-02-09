@@ -13,6 +13,11 @@
 ```bash
 root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```
+
+  <table>
+<tr>
+<td>
+  
 ```yaml
 Biodata
 ———————
@@ -24,6 +29,7 @@ Status : Learn & Grow
 Languages : JavaScript
 Location : Indonesia
 ```
+
 <table>
 <tr>
 <td>
