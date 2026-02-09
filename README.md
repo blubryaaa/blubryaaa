@@ -13,9 +13,9 @@ root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```yaml
 Biodata
 ————————————————————————————————
-Nama : Akyra
-Umur : 18
-Hobi : Ngoding
+Name : Akyra
+Age : 18
+Hobby : Ngoding
 Music : R&B, Pop
 Status : Learn & Grow
 Languages : JavaScript, Python
@@ -25,7 +25,7 @@ Location : Indonesia
 
 
 <div> 
-<br> <h2 align="center"> 🎶 My Stuff
+<br> <h2 align="center"> 🎶 My Vibe
 </h2> <p align="right"><a href = "https://music.youtube.com/watch?v=O48gok_FLCg"><img src = "https://i.ytimg.com/vi/O48gok_FLCg/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>7!! - Trance </b></p> <br> <br>
   <p align="left"><a href = "https://music.youtube.com/watch?v=WwyDpKXG83A"><img src ="https://i.ytimg.com/vi_webp/WwyDpKXG83A/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - Grand Escape (feat. Toko Miura)</b></p> <br> <br> 
   <p align="right"><a href="https://music.youtube.com/watch?v=2kBD6ZueXNo"><img src="https://i.ytimg.com/vi_webp/2kBD6ZueXNo/maxresdefault.webp" width="170" align="left"></a><b><br>Aoi Tada - 灼け落ちない翼</b></p> <br> <br> 
