@@ -28,5 +28,6 @@ Location : Indonesia
 </h2> <p align="right"><a href = "https://music.youtube.com/watch?v=AoVgx-kffaU&si=AbHaJD0700Zas2Bu"><img src = "https://i.ytimg.com/vi/naZkvcp-JXg/hq2.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLBW5RrC6nA3o46YvsboFWKs3qbwxA" width = "170" align = "left"/></a><b><br>PARTYNEXTDOOR - Make It To The Morning </b></p> <br> <br>
   
   <p align="left"><a href = "https://music.youtube.com/watch?v=gHb6AEwNFBU&si=fhgu8SOEP386hszY"><img src ="https://lh3.googleusercontent.com/ii_8E4zawhW8ARpz0GAzFkLGzg9dUOmlmz4Z3skCudi_0IZ6pSKggTj_6iAtPsey7ZaCVHNLfYswhfNr=w544-h544-l90-rj" width="170" align="right"></a><b><br><br>Metro Boomin - Trance </b></p> <br> <br> 
-  <p align="right"><a href="https://music.youtube.com/watch?v=2kBD6ZueXNo"><img src="https://i.ytimg.com/vi_webp/2kBD6ZueXNo/maxresdefault.webp" width="170" align="left"></a><b><br>Aoi Tada - 灼け落ちない翼</b></p> <br> <br> 
+  
+  <p align="right"><a href="https://music.youtube.com/watch?v=XDMg06hw97U&si=clO6M2gheTKS-bry"><img src="https://lh3.googleusercontent.com/rra9ajpG50BoWyxszMpVqMAloA83Q1p3V4ryNrtDhAriAqvxyNAEAKU0KDs0JoxgDKoSsiWe_GDWong=w544-h544-l90-rj" width="170" align="left"></a><b><br><br>Metro Boomin, Coi Leray - Self Love </b></p> <br> <br> 
   <p align="left"><a href = "https://music.youtube.com/watch?v=OqQAFmkrzew"><img src ="https://i.ytimg.com/vi_webp/OqQAFmkrzew/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - すずめ feat.</b></p> <br> </div> <br> <div> 
