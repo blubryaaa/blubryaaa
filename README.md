@@ -35,3 +35,21 @@ Location : Indonesia
 
   
   <p align="left"><a href = "https://music.youtube.com/watch?v=KnLGL7KzYtQ&si=duhoPZ2oa_Si7dID"><img src ="https://upload.wikimedia.org/wikipedia/commons/3/33/Parental_Advisory_label.svg" width="170" align="right"></a><b><br><br>Lah Pat, Flo Milli - Rodeo (Remix) </b></p> <br> </div> <br> <div> 
+
+
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@blubryaaa"name=Akyraa&theme=booru-lewd">
+    </p>
+</div>
+
+</b> </a> </td> </tr> </table><h2 align="center"> 📖 Knowledge </h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,python,vscode&perline=6"/> </p><h2 align="center">
+
+</p> <p align="center"> <img width="625em" src="./github-metrics.svg"/>
+
+
+</div> <h2 align="center"> 📫 Contact
+
+<p align="center"> <a href="https://tiktok.com/@akyra.jpg"> <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/> </a> <a href="mailto: nxtzyrex@gmail.com"> <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/> </a> </p><h2 align="center"> 🤍 Support Me
+  
+  <p align="center"> <a href="https://trakteer.id/akyra"> <img src="https://i.imgur.com/3WQv7ZC.png" width="180"/> </a> </p>
