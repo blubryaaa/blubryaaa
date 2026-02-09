@@ -52,4 +52,4 @@ Location : Indonesia
 
 <p align="center"> <a href="https://tiktok.com/@akyra.jpg"> <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/> </a> <a href="mailto: nxtzyrex@gmail.com"> <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/> </a> </p><h2 align="center"> 🤍 Support Me
   
-  <p align="center"> <a href="https://trakteer.id/akyra"> <img src="https://i.imgur.com/3WQv7ZC.png" width="180"/> </a> </p>
+  <p align="center"> <a href="https://trakteer.id/akyra.jpg"> <img src="https://i.imgur.com/3WQv7ZC.png" width="180"/> </a> </p>
