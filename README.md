@@ -6,15 +6,10 @@
 
 <div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="280px"/> </div>
 
-<table>
-<tr>
-<td>
-  
 ```bash
 root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```
-
-  <table>
+<table>
 <tr>
 <td>
   
