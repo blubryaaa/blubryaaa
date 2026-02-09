@@ -1,10 +1,10 @@
-<div align="center"> <img src="https://media.giphy.com/media/rx6dPRp8SAX3Rm7avu/giphy.gif" width="280"/> </div> <h2 align="center">Halo semua! 👋🏻
+<div align="center"> <img src="https://media.giphy.com/media/rx6dPRp8SAX3Rm7avu/giphy.gif" width="480"/> </div> <h2 align="center">Halo semua! 👋🏻
   
 </h2> Kenalin, aku Akyra. Aku cuma orang biasa yang kalau lagi ga ada kerjaan alias gabut, larinya malah ke VSCode. Buat aku, ngoding itu cara paling seru buat ngisi waktu daripada bengong ga jelas. Sekarang aku lagi fokus dalemin JavaScript sama Python. Masih jauh dari kata suhu, tapi aku suka banget ngulik error sampe nemu solusinya. Fokus aku sekarang lebih ke arah backend, automation, dan manajemen server / VPS kecil-kecilan.
 
 <h2 align="center"> 💫 About Me </h2>
 
-<div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="280px"/> </div>
+<div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="480px"/> </div>
 
 ```bash
 root@akyra: ~/blubryaaa (main)$ run abtme
@@ -43,13 +43,14 @@ Location : Indonesia
     </p>
 </div>
 
-</b> </a> </td> </tr> </table><h2 align="center"> 📖 Knowledge </h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,python,vscode&perline=6"/> </p><h2 align="center">
-
-</p> <p align="center"> <img width="625em" src="./github-metrics.svg"/>
+</b> </a> </td> </tr> </table><h2 align="center"> 📖 Knowledge </h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,python,vscode&perline=6"/> </p>
 
 
-</div> <h2 align="center"> 📫 Contact
+<h2 align="center"> 📫 Contact Me </h2>
 
-<p align="center"> <a href="https://tiktok.com/@akyra.jpg"> <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/> </a> <a href="mailto: nxtzyrex@gmail.com"> <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/> </a> </p><h2 align="center"> 🤍 Support Me
+
+<p align="center"> <a href="https://tiktok.com/@akyra.jpg"> <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/> </a> <a href="mailto: nxtzyrex@gmail.com"> <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/> </a> </p>
+
+<h2 align="center"> 🤍 Support Me </h2>
   
-  <p align="center"> <a href="https://trakteer.id/akyra.jpg"> <img src="https://i.imgur.com/3WQv7ZC.png" width="180"/> </a> </p>
+  <p align="center"> <a href="https://trakteer.id/akyra.jpg"> <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybGpyNTJsMzU1NHNtY3d1ZWR0Zmlpd3Y2eWRpcDM2ZGk4MXFmbXhvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w68ONqOC0n3hsL3Fqz/giphy.gif" width="180"/> </a> </p>
