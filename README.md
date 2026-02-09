@@ -34,4 +34,4 @@ Location : Indonesia
   <p align="right"><a href="https://music.youtube.com/watch?v=XDMg06hw97U&si=clO6M2gheTKS-bry"><img src="https://lh3.googleusercontent.com/rra9ajpG50BoWyxszMpVqMAloA83Q1p3V4ryNrtDhAriAqvxyNAEAKU0KDs0JoxgDKoSsiWe_GDWong=w544-h544-l90-rj" width="170" align="left"></a><b><br><br>Metro Boomin, Coi Leray - Self Love </b></p> <br> <br> 
 
   
-  <p align="left"><a href = "https://music.youtube.com/watch?v=OqQAFmkrzew"><img src ="https://i.ytimg.com/vi_webp/OqQAFmkrzew/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - すずめ feat.</b></p> <br> </div> <br> <div> 
+  <p align="left"><a href = "https://music.youtube.com/watch?v=KnLGL7KzYtQ&si=duhoPZ2oa_Si7dID"><img src ="https://lh3.googleusercontent.com/L_U9fnrObLVvkngj9uapwVCCYEkqucoWg5AGSSgODgIykItwjHbhSvL6FXuDTiGEIDd4QgqLBTYX2Ss=w544-h544-l90-rj" width="170" align="right"></a><b><br><br>Lah Pat, Flo Milli - Rodeo (Remix) </b></p> <br> </div> <br> <div> 
