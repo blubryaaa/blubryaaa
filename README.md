@@ -27,11 +27,11 @@ Location : Indonesia
 <br> <h2 align="center"> 🎶 My Vibe
 </h2> 
   
-  <p align="right"><a href = "https://music.youtube.com/watch?v=AoVgx-kffaU&si=AbHaJD0700Zas2Bu"><img src = "https://i.ytimg.com/vi/naZkvcp-JXg/hq2.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLBW5RrC6nA3o46YvsboFWKs3qbwxA" width = "170" align = "left"/></a><b><br>PARTYNEXTDOOR - Make It To The Morning </b></p> <br> <br>
+  <p align="right"><a href = "https://music.youtube.com/watch?v=AoVgx-kffaU&si=AbHaJD0700Zas2Bu"><img src = "https://upload.wikimedia.org/wikipedia/commons/3/33/Parental_Advisory_label.svg" width = "170" align = "left"/></a><b><br>PARTYNEXTDOOR - Make It To The Morning </b></p> <br> <br>
   
-  <p align="left"><a href = "https://music.youtube.com/watch?v=gHb6AEwNFBU&si=fhgu8SOEP386hszY"><img src ="https://lh3.googleusercontent.com/ii_8E4zawhW8ARpz0GAzFkLGzg9dUOmlmz4Z3skCudi_0IZ6pSKggTj_6iAtPsey7ZaCVHNLfYswhfNr=w544-h544-l90-rj" width="170" align="right"></a><b><br><br>Metro Boomin - Trance </b></p> <br> <br> 
+  <p align="left"><a href = "https://music.youtube.com/watch?v=gHb6AEwNFBU&si=fhgu8SOEP386hszY"><img src ="https://lh3.googleusercontent.com/ii_8E4zawhW8ARpz0GAzFkLGzg9dUOmlmz4Z3skCudi_0IZ6pSKggTj_6iAtPsey7ZaCVHNLfYswhfNr=w544-h544-l90-rj" width="170" align="right"></a><b><br><br>Metro Boomin, Travis Scott, Young Thug - Trance </b></p> <br> <br> 
   
   <p align="right"><a href="https://music.youtube.com/watch?v=XDMg06hw97U&si=clO6M2gheTKS-bry"><img src="https://lh3.googleusercontent.com/rra9ajpG50BoWyxszMpVqMAloA83Q1p3V4ryNrtDhAriAqvxyNAEAKU0KDs0JoxgDKoSsiWe_GDWong=w544-h544-l90-rj" width="170" align="left"></a><b><br><br>Metro Boomin, Coi Leray - Self Love </b></p> <br> <br> 
 
   
-  <p align="left"><a href = "https://music.youtube.com/watch?v=KnLGL7KzYtQ&si=duhoPZ2oa_Si7dID"><img src ="https://lh3.googleusercontent.com/L_U9fnrObLVvkngj9uapwVCCYEkqucoWg5AGSSgODgIykItwjHbhSvL6FXuDTiGEIDd4QgqLBTYX2Ss=w544-h544-l90-rj" width="170" align="right"></a><b><br><br>Lah Pat, Flo Milli - Rodeo (Remix) </b></p> <br> </div> <br> <div> 
+  <p align="left"><a href = "https://music.youtube.com/watch?v=KnLGL7KzYtQ&si=duhoPZ2oa_Si7dID"><img src ="https://upload.wikimedia.org/wikipedia/commons/3/33/Parental_Advisory_label.svg" width="170" align="right"></a><b><br><br>Lah Pat, Flo Milli - Rodeo (Remix) </b></p> <br> </div> <br> <div> 
