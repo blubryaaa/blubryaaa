@@ -5,17 +5,17 @@
 <h2 align="center"> 💫 About Me </h2>
 
 ```bash
-root@akyra: ~/blubryaaa (main)$ neofetch
+root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```
+<div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="280px"/>
 
-<img src="https://i.imgur.com/0Z8F6Cq.jpg" width="240px"/>
-  
-```yaml
+```bash
 Biodata
 Nama : Akyra
 Umur : 18
 Hobi : Ngoding, Nonton Anime
 Music : R&B, Pop
 Status : Learn & Grow
-Languages : JavaScript, Python Location : Indonesia
+Languages : JavaScript, Python
+Location : Indonesia
 ```
