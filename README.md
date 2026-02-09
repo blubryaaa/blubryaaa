@@ -15,7 +15,7 @@ Biodata
 ————————————————————————————————
 Name : Akyra
 Age : 18
-Hobby : Ngoding
+Hobby : Sleep 😝
 Music : R&B, Pop
 Status : Learn & Grow
 Languages : JavaScript, Python
