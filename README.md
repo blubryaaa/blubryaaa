@@ -11,7 +11,6 @@ root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```
   
 ```yaml
-Biodata
 ————————————————————————————————
 Name : Akyra
 Age : 18
