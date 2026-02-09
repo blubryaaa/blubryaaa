@@ -4,18 +4,26 @@
 
 <h2 align="center"> 💫 About Me </h2>
 
+<div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="280px"/> </div>
+
+<table>
+<tr>
+<td>
+  
 ```bash
 root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```
-<div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="280px"/>
-
-```bash
+```yaml
 Biodata
+———————
 Nama : Akyra
 Umur : 18
-Hobi : Ngoding, Nonton Anime
+Hobi : Ngoding
 Music : R&B, Pop
 Status : Learn & Grow
-Languages : JavaScript, Python
+Languages : JavaScript
 Location : Indonesia
 ```
+<table>
+<tr>
+<td>
