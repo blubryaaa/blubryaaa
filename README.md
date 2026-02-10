@@ -7,19 +7,19 @@
 <div align="center"> <img src="https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/2a/02StealsClothes.png/revision/latest?cb=20191214034920" width="480px"/> </div>
 
 ```bash
-root@akyra: ~/blubryaaa (main)$ run abtme
+root@akyra: ~/blubryaaa (main)$ run zerotwo
 ```
   
 ```yaml
-————————————————————————————————
+——————————————————————————
 Name : Akyra
 Age : 18
-Hobby : Sleep 😝
+Hobby : Sleep
 Music : R&B, Pop
 Status : Learn & Grow
-Languages : JavaScript, Python
+Languages : ID, EN, CN
 Location : Indonesia
-————————————————————————————————
+——————————————————————————
 ```
 
 
